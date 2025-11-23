@@ -5,8 +5,8 @@ The original 1993 manifesto, now inscribed as a **Hybrid Inscription**:
 - 80-byte OP_RETURN parent (root hash + provenance)
 - Full recursive HTML reveal on the same sat
 
-> “Privacy is necessary for an open society in the electronic age.”  
-> “Cypherpunks write code.”
+> "Privacy is necessary for an open society in the electronic age."  
+> "Cypherpunks write code."
 
 We just wrote it in Satoshi's dead space.
 
