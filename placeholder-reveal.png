@@ -1,0 +1,32 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="/official/images/style.css">
+<meta charset="UTF-8">
+<meta name="robots" content="noindex">
+<meta name="author" content="Lolcats">
+<meta name="viewport" content="width=device-width, initial-scale=0.4">
+<title>Catbox</title>
+</head>
+
+<img src="/official/images/404.png" style="margin: auto; display: block;">
+
+<div class="notetiny">
+<a class="linkbutton" href="https://catbox.moe/">Click me to go home</a>
+</div>
+
+<script>
+(function (d) {
+window.rum = {key: 'z2ave2fv'};
+var script = d.createElement('script');
+script.src = 'https://cdn.perfops.net/rom3/rom3.min.js';
+script.type = 'text/javascript';
+script.defer = true;
+script.async = true;
+d.getElementsByTagName('head')[0].appendChild(script);
+})(document);
+</script>
+
+</body>
+
+</html>
