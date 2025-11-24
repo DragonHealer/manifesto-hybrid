@@ -4,7 +4,7 @@ echo "=================================================="
 
 # 1. OP_RETURN parent (80-byte root) — Mac version
 HASH=$(shasum -a 256 manifesto.html | awk '{print $1}')
-PAYLOAD="00484963687068657270756e6b5f76315f647261676f6e6865616c6572$HASH"
+PAYLOAD="004849447261676f6e4865616c65725f6879627269645f726f6f74_63dd15d0a2013779819241ce6aae89f781c5be81580ddc6c0a5dd159143cdbf3"
 
 echo "1. OP_RETURN PARENT HEX (copy this):"
 echo "   $PAYLOAD"
