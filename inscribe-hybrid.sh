@@ -9,7 +9,7 @@ echo "   $PAYLOAD"
 echo "   → Paste into Sparrow / UniSat as OP_RETURN (any amount < 546 sats)"
 echo ""
 echo "2. Inscribing full HTML reveal..."
-ord wallet inscribe --fee-rate 15 --file manifesto.html --content-type text/html
+ord wallet inscribe --fee-rate 20 --file placeholder-reveal.png --content-type image/png
 echo ""
 echo "Done. You just etched the first Hybrid Cypherpunk Manifesto."
 echo "Post both the parent TXID + reveal ID on X when confirmed."
